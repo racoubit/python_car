@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Python car
 
 You can use the [editor on GitHub](https://github.com/racoubit/python_car/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
