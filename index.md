@@ -1,11 +1,11 @@
 ## Python car
-
+![デモカー2022.5.6撮影](democar.jpg) 
 You can use the [editor on GitHub](https://github.com/racoubit/python_car/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-![デモカー2022.5.6撮影](democar.jpg) 
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
